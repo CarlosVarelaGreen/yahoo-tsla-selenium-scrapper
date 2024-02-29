@@ -1,4 +1,4 @@
-# yahoo-tsla-selenium-scrapper
+# yahoo-tsla-selenium-scraper
 
 This repository contains a Python web scraper built using Selenium for extracting news headlines from a specific website. The scraper is designed to navigate to a target URL, scroll down to load news content, and extract headlines, which are then saved to a CSV file.
 
@@ -19,7 +19,7 @@ Usage
 Clone this repository to your local machine,
 Navigate to the repository directory,
 Run the Python script:
-python your_scraper_name.py
+python scraper.py
 
 The script will launch a web browser, navigate to the target URL, scrape news headlines, and save them to a CSV file named "news_headlines.csv" in the same directory.
 
